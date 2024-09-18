@@ -65,7 +65,7 @@ public class Main {
                 arrayInt[i] = arrayInt [i]+1;
             }
         }
-        System.out.println(Arrays.toString(arrayInt));
+        System.out.println(java.util.Arrays.toString(arrayInt));
         System.out.println();
     }
 }
